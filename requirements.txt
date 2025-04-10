@@ -1,0 +1,8 @@
+openai>=1.66.2
+python-dotenv
+pandas
+jupyter
+notebook
+ipykernel
+requests
+matplotlib
